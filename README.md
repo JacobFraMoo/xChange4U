@@ -1,2 +1,2 @@
-# xChange4U
-Year 2 Website 
+# WebServicesCurrencyExchange
+A Netbeans project which allows for currency conversion

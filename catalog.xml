@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Coursework2/CurrencyConverter?wsdl" uri="src/conf/xml-resources/web-service-references/CurrencyConverter/wsdl/localhost_8080/Coursework2/CurrencyConverter.wsdl"/>
+    <system systemId="http://localhost:8080/Coursework2/CurrencyConverter?xsd=1" uri="src/conf/xml-resources/web-service-references/CurrencyConverter/wsdl/localhost_8080/Coursework2/CurrencyConverter.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WebServicesCurrencyExchange-master/MoneyTransfer?wsdl" uri="src/conf/xml-resources/web-service-references/MoneyTransfer/wsdl/localhost_8080/WebServicesCurrencyExchange-master/MoneyTransfer.wsdl"/>
+    <system systemId="http://localhost:8080/WebServicesCurrencyExchange-master/MoneyTransfer?xsd=1" uri="src/conf/xml-resources/web-service-references/MoneyTransfer/wsdl/localhost_8080/WebServicesCurrencyExchange-master/MoneyTransfer.xsd_1.xsd"/>
+</catalog>
